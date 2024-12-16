@@ -1,4 +1,11 @@
-## Hi there 👋
+### 👋 Hi, I'm Sid Dayaneni!
+
+I'm a Math & CS major at the University of Illinois at Urbana-Champaign. Below are a few links containing a little more about me and my work. Feel free to reach out at my email: **sd79@illinois.edu**.
+
+## Links
+
+* [My Website](https://sdayaneni.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/siddharth-dayaneni-025119262/)
 
 <!--
 **sdayaneni/sdayaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
