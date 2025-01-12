@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Sid Dayaneni!
 
-I'm a Math & CS major at the University of Illinois at Urbana-Champaign. Below are a few links where you can find a little more about me and my work. Feel free to reach out at my email: **sd79@illinois.edu**.
+I'm a Math & CS major at the University of Illinois at Urbana-Champaign. Below are a few links where you can find a little more about me and my work. Feel free to reach out at my email: **sd79@illinois.edu**. Thanks for stopping by!
 
 ## Links
 
