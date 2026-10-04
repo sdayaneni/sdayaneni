@@ -5,7 +5,7 @@ I'm a Math & CS major at the University of Illinois at Urbana-Champaign. Below a
 ## Links
 
 * [My Website](https://sdayaneni.github.io/)
-* [LinkedIn](https://www.linkedin.com/in/siddharth-dayaneni-025119262/)
+* [LinkedIn](https://www.linkedin.com/in/siddharth-dayaneni/)
 
 <!--
 **sdayaneni/sdayaneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
